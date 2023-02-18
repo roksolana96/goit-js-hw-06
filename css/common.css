@@ -36,9 +36,18 @@ button {
 .gallery_item{
   display: flex;
   justify-content: center;
+
+  /* justify-content: start;
+  transform: translateX(0);
+  opacity: 1; */
 }
 
 .gallery_images {
   width: 50%;
   display: flex;
+
+  /* transform: translateX(50%);
+  opacity: 1;
+  transition: all 500ms linear;
+  object-fit: cover; */
 }

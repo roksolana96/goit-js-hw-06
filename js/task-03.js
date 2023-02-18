@@ -27,3 +27,5 @@ setImagesGalleryEl.insertAdjacentHTML("afterbegin", imagesEl);
 
 
 console.log(setImagesGalleryEl)
+
+// setImagesGalleryEl.addEventListener('load' ,makeImagesEl, { once: true})
