@@ -46,8 +46,10 @@ button {
   width: 50%;
   display: flex;
 
+
   /* transform: translateX(50%);
   opacity: 1;
-  transition: all 500ms linear;
+  transition: all 500ms linear 500ms;
   object-fit: cover; */
 }
+

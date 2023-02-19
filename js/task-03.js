@@ -26,6 +26,6 @@ const imagesEl = images.map(makeImagesEl).join('');
 setImagesGalleryEl.insertAdjacentHTML("afterbegin", imagesEl);
 
 
-console.log(setImagesGalleryEl)
+console.log(setImagesGalleryEl);
 
 // setImagesGalleryEl.addEventListener('load' ,makeImagesEl, { once: true})
